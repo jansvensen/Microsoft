@@ -1,15 +1,3 @@
-﻿<#
-.SYNOPSIS
-The script creates a VHD/X File and copies the MSIX Data
-.DESCRIPTION
-Use this script to create a MSIX App Attach Container VHDX file and the corresponding json file
-.NOTES
-  Version:         1.0
-  Author:          Sven Jansen <sven.jansen@devicetrust.com>
-  Creation Date:   2021-03-22
-  Purpose/Change:
-#>
-
 ### region manual variable
 
     $MSIXPackageName = "C:\Users\devicetrust\Desktop\WireShark_1.0.0.0_x64__dpaxz3091nv8m.msix"
